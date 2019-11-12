@@ -1,5 +1,6 @@
 # Rain World Hunter Tracker
 Allows progress tracking for the Hunter in Rain World.
+This tracker only works on PC edition.
 
 ## Changelog
 - 01/08/2019 - Added a kills ranking section in the "display approximate ranking" preview.
